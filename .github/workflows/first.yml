@@ -1,5 +1,5 @@
 name: first
-on: [push, pull_request]
+on: push
 
 jobs:
   job_1:
